@@ -28,7 +28,7 @@ git push -u origin main
 
 Obs.: O banco de dados (mdf e ldf) fica armazenado em C:\Users\Luiz M P Rothier (em C:\Users\Luiz M P Rothier\AppData\Local\Microsoft\Microsoft SQL Server Local DB\Instances\mssqllocaldb ficam as definições dos bancos de dados locais)
 
-## Part 1: [Get started with Razor Pages in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/razor-pages-start?view=aspnetcore-5.0&tabs=visual-studio)
+## Part 1: [Get started](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/razor-pages-start?view=aspnetcore-5.0&tabs=visual-studio)
 Após criar o projeto, criar o repositório através da opção Create Repo, do menu Git do VS Studio
 
 ### Provided links within
@@ -40,7 +40,7 @@ Após criar o projeto, criar o repositório através da opção Create Repo, do menu 
 - [App startup in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/startup?view=aspnetcore-5.0)
 
 
-## Part 2: [add a model to a Razor Pages app in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/model?view=aspnetcore-5.0&tabs=visual-studio)
+## Part 2: [Add a model](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/model?view=aspnetcore-5.0&tabs=visual-studio)
 *Antes de iniciar, criar a branch Part2-add_a_model_to_a_razor_pages_app_in_aspdotnet_core
 *Obs.: Na primeira tentativa de criar o scaffold não deu certo. Executar uma segunda vez;
 *Ao final dessa parte, fazer o commit e o push no Visual Studio, usando ...
@@ -49,16 +49,17 @@ Após criar o projeto, criar o repositório através da opção Create Repo, do menu 
 ### Provided links within
 - [Entity Framework Core (EF Core)](https://docs.microsoft.com/en-us/ef/core)
 - [DataType](https://docs.microsoft.com/en-us/dotnet/api/system.componentmodel.dataannotations.datatypeattribute)
-- [DataAnnotations](DataAnnotations)
+- [DataAnnotations](https://docs.microsoft.com/en-us/dotnet/api/system.componentmodel.dataannotations)
 - [Dependency injection](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-5.0)
 - [Microsoft.EntityFrameworkCore.DbContext](https://docs.microsoft.com/en-us/dotnet/api/microsoft.entityframeworkcore.dbcontext)
 - [DbSet](https://docs.microsoft.com/en-us/dotnet/api/microsoft.entityframeworkcore.dbset-1)
 - [DbContextOptions](https://docs.microsoft.com/en-us/dotnet/api/microsoft.entityframeworkcore.dbcontextoptions)
 - [Configuration system](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/?view=aspnetcore-5.0)
 - [Migrations step](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/model?view=aspnetcore-5.0&tabs=visual-studio#pmc)
+- [For globalization instructions, see this GitHub issue](https://github.com/dotnet/AspNetCore.Docs/issues/4076#issuecomment-326590420)
 
 
-## Part 3: [scaffolded Razor Pages in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/page?view=aspnetcore-5.0&tabs=visual-studio)
+## Part 3: [Scaffolding](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/page?view=aspnetcore-5.0&tabs=visual-studio)
 *Antes de iniciar, criar o branch Part3-scaffolded_razor_pages_in_aspdotnet_core à partir do branch Part2-add_a_model_to_a_razor_pages_app_in_aspdotnet_core;
 
 ### Provided links within
@@ -95,13 +96,13 @@ Outro link (obtido provavelmente ao rodar a aplicação) - Importante!: https://do
 
 
 
-## Part 5: [update the generated pages in an ASP.NET Core app](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/da1?view=aspnetcore-5.0)
+## Part 5: [Update the pages](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/da1?view=aspnetcore-5.0)
 
-## Part 6: [add search to ASP.NET Core Razor Pages](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/search?view=aspnetcore-5.0)
+## Part 6: [Add search](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/search?view=aspnetcore-5.0)
 
-## Part 7: [add a new field to a Razor Page in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/new-field?view=aspnetcore-5.0&tabs=visual-studio)
+## Part 7: [Add a new field](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/new-field?view=aspnetcore-5.0&tabs=visual-studio)
 
-## [Part 8](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/validation?view=aspnetcore-5.0&tabs=visual-studio)
+## Part 8: [Add validation](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/validation?view=aspnetcore-5.0&tabs=visual-studio)
 
 
 ## Other related Information
