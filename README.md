@@ -87,7 +87,7 @@ Após criar o projeto, criar o repositório através da opção Create Repo, do menu 
    
 
 Outro link (obtido provavelmente ao rodar a aplicação) - Importante!: https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-5.0
-
+RELER!!!
 
 
 ## Part 4: [Work with a database](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/sql?view=aspnetcore-5.0&tabs=visual-studio)
